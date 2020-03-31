@@ -1,0 +1,14 @@
+server:
+  port: 3000
+  servlet:
+    context-path: /wechat
+#spring:
+#  data:
+#    mongodb:
+#      host: localhost
+#      port: 27017
+#      database: iwms
+#spring:
+#  redis:
+#    host: 49.235.41.147
+#    port: 6739
